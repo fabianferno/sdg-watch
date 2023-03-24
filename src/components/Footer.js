@@ -15,8 +15,8 @@ export function Footer() {
                   fontSize: "2.5rem",
                 }}
               >
-                <span>push</span>
-                <span className="text-white">flow</span>
+                <span>sdg</span>
+                <span className="text-white">watch</span>
               </h1>
               <p className="fw-normal text-secondary fs-6">
                 bringing projects to life on the{" "}

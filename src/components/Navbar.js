@@ -18,7 +18,7 @@ export function NavBar() {
               }}
             >
               <span>SDG</span>
-              <span className="text-white">tokens</span>
+              <span className="text-white">watch</span>
             </h1>
             <p className="fw-normal text-secondary fs-6">
               taking sustainable goals to next{" "}
