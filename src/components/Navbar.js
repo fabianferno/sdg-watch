@@ -29,12 +29,12 @@ export function NavBar() {
             <Link className="p-2 fw-normal" to="/">
               / Home
             </Link>
-            <Link className="p-2 fw-normal" to="/company-dashboard">
-              / Dashboard
+            <Link className="p-2 fw-normal" to="/register">
+              / Send
             </Link>
-            <Link className="p-2 fw-normal me-3" to="/project-dashboard">
+            {/* <Link className="p-2 fw-normal me-3" to="/project-dashboard">
               / Project Impact
-            </Link>
+            </Link> */}
 
             <ConnectButton />
           </Nav>

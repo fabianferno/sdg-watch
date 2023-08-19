@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@headlessui/react": "^1.7.14",
+    "@huddle01/huddle01-iframe": "^0.0.9",
     "@rainbow-me/rainbowkit": "^0.12.2",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -16,8 +18,11 @@
     "react-router-dom": "^6.9.0",
     "react-scripts": "5.0.1",
     "sass": "^1.58.3",
-    "wagmi": "^0.12.6",
-    "web-vitals": "^2.1.4"
+    "tailwind": "^4.0.0",
+    "wagmi": "^0.12.10",
+    "web-vitals": "^2.1.4",
+    "web3": "^4.0.3",
+    "xlsx": "^0.18.5"
   },
   "scripts": {
     "start": "react-scripts start",
